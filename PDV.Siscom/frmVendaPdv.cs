@@ -10,12 +10,11 @@ using System.Windows.Forms;
 
 namespace PDV.Siscom
 {
-    public partial class Form1 : Form
+    public partial class frmVendaPdv : Form
     {
-        public Form1()
+        public frmVendaPdv()
         {
             InitializeComponent();
         }
-
     }
 }
