@@ -14,6 +14,7 @@ namespace PDV.Siscom
         [STAThread]
         static void Main()
         {
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NjI1NTcwQDMyMzAyZTMxMmUzMGNYdEZXK3NKcmRSMkJSVGp1SkdFdXkydCtnQUhFMDZQZnZYb25zSjArY0E9;NjI1NTcxQDMyMzAyZTMxMmUzMG9ydC9vOVRCM2lXRkRQbkxEM0lPL0ZtTXdRSWJMN2pqRUxKVTdrbFh0MVk9");
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

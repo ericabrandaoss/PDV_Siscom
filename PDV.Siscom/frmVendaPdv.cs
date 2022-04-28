@@ -16,5 +16,50 @@ namespace PDV.Siscom
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Codigo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Imagem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Imagem_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Código_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnlBotoes_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void sfButton4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ntbComponentesCodigo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGridItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
