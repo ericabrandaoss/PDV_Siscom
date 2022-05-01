@@ -61,5 +61,35 @@ namespace PDV.Siscom
         {
 
         }
+
+        private void frmVendaPdv_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblComponentesImagem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gradientPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lblRodapeUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dtRodapeData_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnlGrid_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
